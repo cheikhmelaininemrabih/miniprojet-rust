@@ -1,0 +1,11 @@
+RustChef Sample Input File
+==========================
+
+Contact us at admin@rustchef.io or support@example.com for help.
+Our servers run at 192.168.1.1, 10.0.0.254, and the gateway is 172.16.0.1.
+
+Documentation: https://rustchef.io/docs and https://github.com/supnum/rustchef
+Mirror: http://mirror.example.org/rustchef/v1.0
+
+This file contains mixed content for testing extraction operations.
+Entropy of this text should be moderate (3.5 to 5.0 bits/byte).
